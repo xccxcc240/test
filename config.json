@@ -11,12 +11,13 @@
         {
             "url": "https://chat.example.com",
             "description": "在线客服",
-            "apiBaseUrl": "https://caiji.240265.xyz/",
+            "apiBaseUrl": "https://caiji.240265.xyz/api/v1",
             "wsBaseUrl": "wss://caiji.240265.xyz"
         }
     ]
 
 }
+
 
 
 
