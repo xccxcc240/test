@@ -2,7 +2,7 @@
     "panels": {
         "mihomo": [
             {
-                "url": "https://caiji.240265.xyz",
+                "url": "https://caiji.240265.xyz/#/dashboard",
                 "description": "主面板"
             }
         ]
@@ -17,4 +17,5 @@
     ]
 
 }
+
 
