@@ -2,7 +2,7 @@
     "panels": {
         "mihomo": [
             {
-                "url": "https://caiji.240265.xyz/#/dashboard",
+                "url": "https://caiji.240265.xyz",
                 "description": "主面板"
             }
         ]
@@ -11,11 +11,12 @@
         {
             "url": "https://chat.example.com",
             "description": "在线客服",
-            "apiBaseUrl": "https://caiji.240265.xyz/api/v1",
+            "apiBaseUrl": "https://caiji.240265.xyz/",
             "wsBaseUrl": "wss://caiji.240265.xyz"
         }
     ]
 
 }
+
 
 
