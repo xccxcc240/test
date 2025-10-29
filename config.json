@@ -4,42 +4,6 @@
             {
                 "url": "https://caiji.240265.xyz",
                 "description": "主面板"
-            },
-            {
-                "url": "https://caiji.240265.xyz/#/dashboard",
-                "description": "服务器1-应用"
-            },
-            {
-                "url": "https://caiji.240265.xyz/#/knowledge",
-                "description": "服务器2-ecs"
-            },
-            {
-                "url": "https://caiji.240265.xyz/#/order",
-                "description": "服务器3-ecs"
-            },
-            {
-                "url": "https://caiji.240265.xyz/#/invite",
-                "description": "服务器3-ecs"
-            },
-            {
-                "url": "https://caiji.240265.xyz/#/plan",
-                "description": "服务器3-ecs"
-            },
-            {
-                "url": "https://caiji.240265.xyz/#/node",
-                "description": "服务器3-ecs"
-            },
-            {
-                "url": "https://caiji.240265.xyz/#/profile",
-                "description": "服务器3-ecs"
-            },
-            {
-                "url": "https://caiji.240265.xyz/#/ticket",
-                "description": "服务器3-ecs"
-            },
-            {
-                "url": "https://caiji.240265.xyz/#/traffic",
-                "description": "服务器3-ecs"
             }
         ]
     },
@@ -52,6 +16,7 @@
         }
     ]
 }
+
 
 
 
